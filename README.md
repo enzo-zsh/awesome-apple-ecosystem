@@ -3,7 +3,7 @@ A repository with Apple ecosystem softwares (open-source if it's possible), you 
 
 - [iCloud suite](#icloud-suite)
 - [AirDrop](#airdrop)
-- [Apple Protocol's](#apple-protocol's)
+- [Apple Protocol](#apple-protocol)
 - [AirPlay](#AirPlay)
 - [Apple tools](#apple-tools)
 - [Apple Music](#apple-music)
@@ -54,7 +54,7 @@ A repository with Apple ecosystem softwares (open-source if it's possible), you 
 
 **Link :** https://www.sharedrop.io/
 
-## Apple Protocol's
+## Apple Protocol
 
 comming soon :)
 
