@@ -110,4 +110,14 @@ comming soon :)
 
 **Link :** https://github.com/init1lham/AirUx
 
+## Apple Music
 
+### Cider :
+
+**Platform :**  Microsoft Windows, GNU/Linux, macOS
+
+**Description :** An open-source, community-oriented Apple Music client for Windows, Linux, macOS, and more.
+
+**License :** AGPLv3
+
+**Link :** https://github.com/ciderapp/Cider |  https://cider.sh/
