@@ -3,12 +3,12 @@ A repository with Apple ecosystem softwares (open-source if it's possible), you 
 
 - [iCloud suite](#icloud-suite)
 - [AirDrop](#airdrop)
-- [Apple Protocol's](#apple_protocoles)
-- [AirPlay](#browsers)
-- [Apple tools](#cameras)
-- [Apple Music](#communication)
-- [Apple services](#education)
-- [Other](#emulation)
+- [Apple Protocol's](#apple-protocol's)
+- [AirPlay](#AirPlay)
+- [Apple tools](#apple-tools)
+- [Apple Music](#apple-music)
+- [Apple services](#apple-services)
+- [Other](#other)
 
 ## iCloud Suite
 
