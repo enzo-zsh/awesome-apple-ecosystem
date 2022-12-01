@@ -138,7 +138,7 @@ comming soon :)
 
 **Description :** An alternative to Cydia Impactor and AltServer for ALL computers. 
 
-**License :** Unknown (but i's open-source)
+**License :** Unknown (but it's open-source)
 
 **Link :** https://usescarlet.com/ | https://github.com/DebianArch64/DebProvision
 
