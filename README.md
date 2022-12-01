@@ -1,10 +1,10 @@
-# Apple-ressources
+# Apple ecosystem alternatives
 A repository with Apple ecosystem softwares (open-source if it's possible), you can use on non-Apple devices / operating systems
 
 - [iCloud suite](#icloud-suite)
 - [AirDrop](#airdrop)
 - [Apple Protocol](#apple-protocol)
-- [AirPlay](#AirPlay)
+- [AirPlay](#airplay)
 - [Apple tools](#apple-tools)
 - [Apple Music](#apple-music)
 - [Apple services](#apple-services)
@@ -109,6 +109,38 @@ comming soon :)
 **License :** Unknown
 
 **Link :** https://github.com/init1lham/AirUx
+
+## Apple tools
+
+### Sideloadly :
+
+**Platform :**  Microsoft Windows, macOS
+
+**Description :** The new & best way to sideload your favorite games and apps to your Non-Jailbroken iOS device, or Apple Silicon Mac!
+
+**License :** Unknown
+
+**Link :** https://sideloadly.io
+
+### AltStore server :
+
+**Platform :**  Microsoft Windows, GNU/Linux (unofficial), macOS, iOS (AltStore)
+
+**Description :** A home for apps that push the boundaries of iOS. No jailbreak required.
+
+**License :** AGPLv3
+
+**Link :** https://altstore.io/ | https://github.com/rileytestut/AltStore | For GNU/Linux : https://github.com/NyaMisty/AltServer-Linux
+
+### ScarletCloud :
+
+**Platform :**  Microsoft Windows, GNU/Linux, macOS, iOS
+
+**Description :** An alternative to Cydia Impactor and AltServer for ALL computers. 
+
+**License :** Unknown (but i's open-source)
+
+**Link :** https://usescarlet.com/ | https://github.com/DebianArch64/DebProvision
 
 ## Apple Music
 
