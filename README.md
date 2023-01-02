@@ -7,7 +7,6 @@ A repository with Apple ecosystem softwares (open-source if it's possible), you 
 - [AirPlay](#airplay)
 - [Apple tools](#apple-tools)
 - [Apple Music](#apple-music)
-- [Apple services](#apple-services)
 - [Other](#other)
 
 ## iCloud Suite
@@ -79,6 +78,16 @@ comming soon :)
 **License :** Proprietary
 
 **Link :** https://www.airserver.com/download
+
+### WirPlay :
+
+**Platform :**  Microsoft Windows (Microsoft Store)
+
+**Description :** Mirroring of Screen of Apple Devices
+
+**License :** Proprietary
+
+**Link :** https://www.microsoft.com/store/productId/9P8CGJJV7T2C
 
 ### OpenAirPlay :
 
