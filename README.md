@@ -162,3 +162,26 @@ comming soon :)
 **License :** AGPLv3
 
 **Link :** https://github.com/ciderapp/Cider |  https://cider.sh/
+
+## Other
+
+### MagicPods :
+
+**Platform :**  Microsoft Windows (Microsoft Store)
+
+**Description :** The MagicPods introduce the IOS experience of AirPods to Windows.
+
+**License :** Proprietary
+
+**Link :** https://www.microsoft.com/store/productId/9P6SKKFKSHKM
+
+### iNotifi :
+
+**Platform :**  Microsoft Windows (Microsoft Store)
+
+**Description :** Tired of missing those important iPhone notifications while using your Windows PC ? iNotifi to the rescue !
+
+**License :** Proprietary
+
+**Link :** https://www.microsoft.com/store/productId/9N9DTZ97WN9V
+
