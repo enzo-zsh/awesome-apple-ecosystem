@@ -198,6 +198,16 @@ A repository with Apple ecosystem softwares (open-source if it's possible), you 
 
 **Link :** https://github.com/homebridge/homebridge  |  https://homebridge.io/
 
+### Homekitty :
+
+**Platform :**  Web
+
+**Description :** A Vapor 3 website to easily browse HomeKit accessories.
+
+**License :** MIT
+
+**Link :** https://github.com/BalestraPatrick/HomeKitty  |  https://homekitty.world/
+
 ## Other
 
 ### MagicPods :
@@ -212,7 +222,7 @@ A repository with Apple ecosystem softwares (open-source if it's possible), you 
 
 ### iNotifi :
 
-**Platform :**  Microsoft Windows (Microsoft Store)
+**Platform :**  RaspberryPiOS, GNU/Linux, macOS, Docker, Microsoft Windows, FreeNAS (BSD)
 
 **Description :** Tired of missing those important iPhone notifications while using your Windows PC ? iNotifi to the rescue !
 
