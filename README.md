@@ -7,6 +7,7 @@ A repository with Apple ecosystem softwares (open-source if it's possible), you 
 - [AirPlay](#airplay)
 - [Apple tools](#apple-tools)
 - [Apple Music](#apple-music)
+- [HomeKit](#HomeKit)
 - [Other](#other)
 
 ## iCloud Suite
@@ -55,7 +56,29 @@ A repository with Apple ecosystem softwares (open-source if it's possible), you 
 
 ## Apple Protocol
 
-comming soon :)
+### ESP-32 HomeKit :
+
+**Description :** ESP-32 implementation of Apple Homekit Accessory Protocol(HAP) 
+
+**Link :** https://github.com/younghyunjo/esp32-homekit
+
+### Continuity :
+
+**Description :** Apple Continuity Protocol Reverse Engineering and Dissector 
+
+**Link :** https://github.com/furiousMAC/continuity
+
+### AFPFS-ng :
+
+**Description :** afpfs-ng/libafpclient is an open source client for the Apple Filing Protocol 
+
+**Link :** https://github.com/simonvetter/afpfs-ng
+
+### AirScan :
+
+**Description :** Go package to scan paper documents 📄 from a scanner 🖨️ via the network 🕸️ using the Apple AirScan (eSCL) protocol. 
+
+**Link :** https://github.com/stapelberg/airscan
 
 ## AirPlay
 
@@ -162,6 +185,18 @@ comming soon :)
 **License :** AGPLv3
 
 **Link :** https://github.com/ciderapp/Cider |  https://cider.sh/
+
+## HomeKit
+
+### Homebridge :
+
+**Platform :**  Microsoft Windows (Microsoft Store)
+
+**Description :** HomeKit support for the impatient. 
+
+**License :** Apache-2.0 license 
+
+**Link :** https://github.com/homebridge/homebridge  |  https://homebridge.io/
 
 ## Other
 
