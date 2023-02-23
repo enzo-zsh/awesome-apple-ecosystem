@@ -190,7 +190,7 @@ A repository with Apple ecosystem softwares (open-source if it's possible), you 
 
 ### Homebridge :
 
-**Platform :**  Microsoft Windows (Microsoft Store)
+**Platform :**  RaspberryPiOS, GNU/Linux, macOS, Docker, Microsoft Windows, FreeNAS (BSD)
 
 **Description :** HomeKit support for the impatient. 
 
@@ -222,7 +222,7 @@ A repository with Apple ecosystem softwares (open-source if it's possible), you 
 
 ### iNotifi :
 
-**Platform :**  RaspberryPiOS, GNU/Linux, macOS, Docker, Microsoft Windows, FreeNAS (BSD)
+**Platform :**  Microsoft Windows (Microsoft Store)
 
 **Description :** Tired of missing those important iPhone notifications while using your Windows PC ? iNotifi to the rescue !
 
