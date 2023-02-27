@@ -136,7 +136,7 @@ A repository with Apple ecosystem softwares (open-source if it's possible), you 
 
 **Platform :**  GNU/Linux
 
-**Description :** AirPlay and AirPlay 2 audio player 
+**Description :** AirPlay and AirPlay 2 audio player (Only audio)
 
 **License :** Unknown (but it's open-source)
 
