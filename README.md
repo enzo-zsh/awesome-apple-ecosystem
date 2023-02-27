@@ -126,11 +126,21 @@ A repository with Apple ecosystem softwares (open-source if it's possible), you 
 
 **Platform :**  GNU/Linux
 
-**Description :** Apple airplay and raop protocol server 
+**Description :** AirPlay and AirPlay 2 audio player 
 
 **License :** Multiple (show GitHub page of the project)
 
 **Link :** https://github.com/juhovh/shairplay
+
+### Shairport-sync :
+
+**Platform :**  GNU/Linux
+
+**Description :** Apple airplay and raop protocol server 
+
+**License :** Unknown (but it's open-source)
+
+**Link :** https://github.com/mikebrady/shairport-sync
 
 ### AirUx :
 
