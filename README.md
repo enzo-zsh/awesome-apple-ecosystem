@@ -54,6 +54,16 @@ A repository with Apple ecosystem softwares (open-source if it's possible), you 
 
 **Link :** https://www.sharedrop.io/
 
+### Opendrop :
+
+**Platform :**  Unknown
+
+**Description :**  An open Apple AirDrop implementation written in Python 
+
+**License :** GNU/GPLv3
+
+**Link :** https://github.com/seemoo-lab/opendrop |  https://owlink.org/
+
 ## Apple Protocol
 
 ### ESP-32 HomeKit :
