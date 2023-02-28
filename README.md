@@ -196,6 +196,16 @@ A repository with Apple ecosystem softwares (open-source if it's possible), you 
 
 **Link :** https://github.com/ciderapp/Cider |  https://cider.sh/
 
+### Musish :
+
+**Platform :**  Web
+
+**Description :** Apple Music...ish 
+
+**License :** AGPLv3
+
+**Link :** https://github.com/Musish/Musish |  https://musi.sh/
+
 ## HomeKit
 
 ### Homebridge :
