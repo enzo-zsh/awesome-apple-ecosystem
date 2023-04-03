@@ -250,6 +250,16 @@ A repository with Apple ecosystem softwares (open-source if it's possible), you 
 
 **Link :** https://www.microsoft.com/store/productId/9P6SKKFKSHKM
 
+### AirPodsDesktop :
+
+**Platform :**  Microsoft Windows 
+
+**Description :** ☄️ AirPods desktop user experience enhancement program, for Windows and Linux (WIP) 
+
+**License :** GNU/GPLv3
+
+**Link :** https://github.com/SpriteOvO/AirPodsDesktop
+
 ### iNotifi :
 
 **Platform :**  Microsoft Windows (Microsoft Store)
