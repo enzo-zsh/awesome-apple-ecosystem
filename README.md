@@ -44,6 +44,17 @@ A repository with Apple ecosystem softwares (open-source if it's possible), you 
 
 **Link :** https://snapdrop.net/
 
+### LocalSend :
+
+**Platform :**  iOS/Android/Linux/macOS/Windows
+
+**Description :** Share files to nearby devices.
+Free, open source, cross-platform.
+
+**License :** MIT
+
+**Link :** https://localsend.org/
+
 ### ShareDrop :
 
 **Platform :**  Web
