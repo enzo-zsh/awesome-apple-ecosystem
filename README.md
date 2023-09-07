@@ -85,6 +85,17 @@ Free, open source, cross-platform.
 
 **Link :** https://github.com/grishka/NearDrop
 
+### WarpShare :
+
+**Platform :**  Android
+
+**Description :**  WarpShare is an Android app that enables file transfer using AirDrop-like functionality from your Android device to Mac.
+
+**License :**  Apache-2.0 license 
+
+**Link :** https://github.com/moseoridev/WarpShare
+
+
 ## Apple Protocol
 
 ### Continuity :
