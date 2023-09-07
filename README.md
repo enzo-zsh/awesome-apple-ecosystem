@@ -75,13 +75,17 @@ Free, open source, cross-platform.
 
 **Link :** https://github.com/seemoo-lab/opendrop |  https://owlink.org/
 
+### NearDrop :
+
+**Platform :**  macOS
+
+**Description :**  An unofficial Google Nearby Share app for macOS
+
+**License :** Unlicense | https://choosealicense.com/licenses/unlicense/
+
+**Link :** https://github.com/grishka/NearDrop
+
 ## Apple Protocol
-
-### ESP-32 HomeKit :
-
-**Description :** ESP-32 implementation of Apple Homekit Accessory Protocol(HAP) 
-
-**Link :** https://github.com/younghyunjo/esp32-homekit
 
 ### Continuity :
 
@@ -228,6 +232,12 @@ Free, open source, cross-platform.
 **Link :** https://github.com/Musish/Musish |  https://musi.sh/
 
 ## HomeKit
+
+### ESP-32 HomeKit :
+
+**Description :** ESP-32 implementation of Apple Homekit Accessory Protocol(HAP) 
+
+**Link :** https://github.com/younghyunjo/esp32-homekit
 
 ### Homebridge :
 
