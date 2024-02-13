@@ -97,7 +97,7 @@ Free, open source, cross-platform.
 
 ### LANDrop :
 
-**Platform :**  Android
+**Platform :**  Microsoft Windows, GNU/Linux, macOS, iOS, Android
 
 **Description :**  Drop any files to any devices on your LAN. No need to use instant messaging for that anymore.
 
