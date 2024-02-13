@@ -95,6 +95,17 @@ Free, open source, cross-platform.
 
 **Link :** https://github.com/moseoridev/WarpShare
 
+### LANDrop :
+
+**Platform :**  Android
+
+**Description :**  Drop any files to any devices on your LAN. No need to use instant messaging for that anymore.
+
+**License :**  BSD 3-Clause License 
+
+**Link :** https://landrop.app/
+
+
 
 ## Apple Protocol
 
