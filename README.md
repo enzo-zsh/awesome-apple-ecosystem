@@ -105,6 +105,17 @@ Free, open source, cross-platform.
 
 **Link :** https://landrop.app/
 
+### Wormhole :
+
+**Platform :**  Web
+
+**Description :**  Simple, private file sharing with end-to-end encryption.
+
+**License :**  Unknown
+
+**Link :** https://wormhole.app
+
+
 
 
 ## Apple Protocol
