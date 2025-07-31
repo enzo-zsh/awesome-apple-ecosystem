@@ -41,7 +41,7 @@ A repository with Apple ecosystem softwares (open-source if it's possible), you 
 
 **Description :** Get Apple Services on your Android, including iMessage and FaceTime, with your Android number.
 
-**License :** Proprietary
+**License :** Apache License
 
 **Link :** https://openbubbles.app
 
