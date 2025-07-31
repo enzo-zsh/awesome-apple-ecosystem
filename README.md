@@ -37,7 +37,7 @@ A repository with Apple ecosystem softwares (open-source if it's possible), you 
 
 ### OpenBubble :
 
-**Platform :**  Microsoft Windows, GNU/Linux, macOS
+**Platform :**  Microsoft Windows, GNU/Linux, Android
 
 **Description :** Get Apple Services on your Android, including iMessage and FaceTime, with your Android number.
 
