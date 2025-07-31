@@ -2,6 +2,7 @@
 A repository with Apple ecosystem softwares (open-source if it's possible), you can use on non-Apple devices / operating systems
 
 - [iCloud suite](#icloud-suite)
+- [iMessage](#imessage)
 - [AirDrop](#airdrop)
 - [Apple Protocol](#apple-protocol)
 - [AirPlay](#airplay)
@@ -31,6 +32,18 @@ A repository with Apple ecosystem softwares (open-source if it's possible), you 
 **License :** GNU/GPLv3
 
 **Link :** https://snapcraft.io/install/icloud-for-linux/ubuntu
+
+## iMessage
+
+### OpenBubble :
+
+**Platform :**  Microsoft Windows, GNU/Linux, macOS
+
+**Description :** Get Apple Services on your Android, including iMessage and FaceTime, with your Android number.
+
+**License :** Proprietary
+
+**Link :** https://openbubbles.app
 
 ## AirDrop
 
