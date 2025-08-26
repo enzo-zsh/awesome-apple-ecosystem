@@ -329,7 +329,7 @@ Free, open source, cross-platform.
 
 ### LibrePods :
 
-**Platform :**  Microsoft Windows 
+**Platform :**  Android, GNU/Linux
 
 **Description :** AirPods libreated from Apple's ecosystem.
 
