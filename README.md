@@ -327,6 +327,16 @@ Free, open source, cross-platform.
 
 **Link :** https://github.com/SpriteOvO/AirPodsDesktop
 
+### LibrePods :
+
+**Platform :**  Microsoft Windows 
+
+**Description :** AirPods libreated from Apple's ecosystem.
+
+**License :** AGPLv3
+
+**Link :** https://github.com/kavishdevar/librepods
+
 ### iNotifi :
 
 **Platform :**  Microsoft Windows (Microsoft Store)
@@ -337,3 +347,42 @@ Free, open source, cross-platform.
 
 **Link :** https://www.microsoft.com/store/productId/9N9DTZ97WN9V
 
+### udev-rules for the SuperDrive :
+
+**Platform :**  GNU/Linux
+
+**Description :** udev rule to enable apple superdrive on linux
+
+**License :** Unlicense
+
+**Link :** https://github.com/mrdotx/superdrive/
+
+### ASD-Control
+
+**Platform :**  GNU/Linux
+
+**Description :** Apple Studio Display and Pro Display XDR monitor brightness control for Linux
+
+**License :** GNU/GPLv2
+
+**Link :** https://github.com/rewgs/asdcontrol
+
+### TimeWall :
+
+**Platform :**  GNU/Linux
+
+**Description :** Apple dynamic HEIF wallpapers on GNU/Linux.
+
+**License :** MIT License
+
+**Link :** https://github.com/bcyran/timewall
+
+### Apple Color Emoji Installer :
+
+**Platform :**  GNU/Linux
+
+**Description :** A simple shell script to install Apple Color Emoji on any Linux distro.
+
+**License :** MIT License
+
+**Link :** https://aarnav-tech.github.io/apple-color-emoji-installer/
