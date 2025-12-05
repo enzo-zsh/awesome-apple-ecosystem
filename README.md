@@ -223,6 +223,36 @@ Free, open source, cross-platform.
 
 **Link :** https://github.com/init1lham/AirUx
 
+### Airplay_Music :
+
+**Platform :**  Java compatible systems
+
+**Description :** Fairly good working example of java based airplay music streaming app from PC to Airplay speakers/server. Uses JmDNS lib for searching airplay devices on local network.
+
+**License :** Unknown
+
+**Link :** https://github.com/pmjagtap/Airplay_Music
+
+### UxPlay :
+
+**Platform :**  Unix
+
+**Description :** AirPlay Unix mirroring server 
+
+**License :** GNU-GPLv3
+
+**Link :** https://github.com/antimof/UxPlay
+
+### UxPlayerAirServer :
+
+**Platform :**  Microsoft Windows
+
+**Description :** AirPlay Server compiled for Windows 11
+
+**License :** MIT
+
+**Link :** https://github.com/9000000/UxPlayerAirServer
+
 ## Apple tools
 
 ### Sideloadly :
