@@ -1,65 +1,32 @@
 # Awesome Apple ecosystem
 A repository with Apple ecosystem softwares (open-source if it's possible), you can use on non-Apple devices / operating systems
 
+- [AirDrop](#airdrop)
+- [AirPlay](#airplay)
+- [Apple Music](#apple-music)
+- [Apple Protocol](#apple-protocol)
+- [Apple tools](#apple-tools)
+- [HomeKit](#homekit)
 - [iCloud suite](#icloud-suite)
 - [iMessage](#imessage)
-- [AirDrop](#airdrop)
-- [Apple Protocol](#apple-protocol)
-- [AirPlay](#airplay)
-- [Apple tools](#apple-tools)
-- [Apple Music](#apple-music)
-- [HomeKit](#HomeKit)
+- [Operating Systems](#operating-systems)
 - [Other](#other)
-
-## iCloud Suite
-
-### iCloud for Windows :
-
-**Platform :**  Microsoft Windows
-
-**Description :** Apple iCloud suite on Windows (Windows 7 and later)
-
-**License :** Proprietary
-
-**Link :** https://secure-appldnld.apple.com/windows/061-91601-20200323-974a39d0-41fc-4761-b571-318b7d9205ed/iCloudSetup.exe
-
-### iCloud for Linux :
-
-**Platform :**  GNU/Linux (via Snap Package Manager)
-
-**Description :** Apple iCloud suite for GNU/Linux system's like Ubuntu
-
-**License :** GNU/GPLv3
-
-**Link :** https://snapcraft.io/install/icloud-for-linux/ubuntu
-
-## iMessage
-
-### OpenBubble :
-
-**Platform :**  Microsoft Windows, GNU/Linux, Android
-
-**Description :** Get Apple Services on your Android, including iMessage and FaceTime, with your Android number.
-
-**License :** Apache License
-
-**Link :** https://openbubbles.app
 
 ## AirDrop
 
-### Snapdrop :
+### LANDrop :
 
-**Platform :**  Web
+**Platform :** Microsoft Windows, GNU/Linux, macOS, iOS, Android
 
-**Description :** The easiest way to transfer files across devices
+**Description :** Drop any files to any devices on your LAN. No need to use instant messaging for that anymore.
 
-**License :** GNU/GPLv3
+**License :** BSD 3-Clause License 
 
-**Link :** https://snapdrop.net/
+**Link :** https://landrop.app/
 
 ### LocalSend :
 
-**Platform :**  iOS/Android/Linux/macOS/Windows
+**Platform :** iOS/Android/Linux/macOS/Windows
 
 **Description :** Share files to nearby devices.
 Free, open source, cross-platform.
@@ -68,9 +35,29 @@ Free, open source, cross-platform.
 
 **Link :** https://localsend.org/
 
+### NearDrop :
+
+**Platform :** macOS
+
+**Description :** An unofficial Google Nearby Share app for macOS
+
+**License :** Unlicense | https://choosealicense.com/licenses/unlicense/
+
+**Link :** https://github.com/grishka/NearDrop
+
+### Opendrop :
+
+**Platform :** Unknown
+
+**Description :** An open Apple AirDrop implementation written in Python 
+
+**License :** GNU/GPLv3
+
+**Link :** https://github.com/seemoo-lab/opendrop |  https://owlink.org/
+
 ### ShareDrop :
 
-**Platform :**  Web
+**Platform :** Web
 
 **Description :** ShareDrop is a free, open-source web app that allows you to easily and securely share files directly between devices without uploading them to any server first. 
 
@@ -78,66 +65,161 @@ Free, open source, cross-platform.
 
 **Link :** https://www.sharedrop.io/
 
-### Opendrop :
+### Snapdrop :
 
-**Platform :**  Unknown
+**Platform :** Web
 
-**Description :**  An open Apple AirDrop implementation written in Python 
+**Description :** The easiest way to transfer files across devices
 
 **License :** GNU/GPLv3
 
-**Link :** https://github.com/seemoo-lab/opendrop |  https://owlink.org/
-
-### NearDrop :
-
-**Platform :**  macOS
-
-**Description :**  An unofficial Google Nearby Share app for macOS
-
-**License :** Unlicense | https://choosealicense.com/licenses/unlicense/
-
-**Link :** https://github.com/grishka/NearDrop
+**Link :** https://snapdrop.net/
 
 ### WarpShare :
 
-**Platform :**  Android
+**Platform :** Android
 
-**Description :**  WarpShare is an Android app that enables file transfer using AirDrop-like functionality from your Android device to Mac.
+**Description :** WarpShare is an Android app that enables file transfer using AirDrop-like functionality from your Android device to Mac.
 
-**License :**  Apache-2.0 license 
+**License :** Apache-2.0 license 
 
 **Link :** https://github.com/moseoridev/WarpShare
 
-### LANDrop :
-
-**Platform :**  Microsoft Windows, GNU/Linux, macOS, iOS, Android
-
-**Description :**  Drop any files to any devices on your LAN. No need to use instant messaging for that anymore.
-
-**License :**  BSD 3-Clause License 
-
-**Link :** https://landrop.app/
-
 ### Wormhole :
 
-**Platform :**  Web
+**Platform :** Web
 
-**Description :**  Simple, private file sharing with end-to-end encryption.
+**Description :** Simple, private file sharing with end-to-end encryption.
 
-**License :**  Unknown
+**License :** Unknown
 
 **Link :** https://wormhole.app
 
+## AirPlay
 
+### Airplay_Music :
 
+**Platform :** Java compatible systems
+
+**Description :** Fairly good working example of java based airplay music streaming app from PC to Airplay speakers/server. Uses JmDNS lib for searching airplay devices on local network.
+
+**License :** Unknown
+
+**Link :** https://github.com/pmjagtap/Airplay_Music
+
+### AirServer :
+
+**Platform :** Microsoft Windows
+
+**Description :** AirServer is the most advanced screen mirroring receiver for Mac and PC. It allows you to receive AirPlay, Google Cast and Miracast streams, similar to an Apple TV or a Chromecast device.
+
+**License :** Proprietary
+
+**Link :** https://www.airserver.com/download
+
+### AirUx :
+
+**Platform :** GNU/Linux
+
+**Description :** AirPlay For Linux 
+
+**License :** Unknown
+
+**Link :** https://github.com/init1lham/AirUx
+
+### DroidPlay :
+
+**Platform :** Android
+
+**Description :** AirPlay client for Android 
+
+**License :** GNU/GPLv3
+
+**Link :** https://github.com/tutikka/DroidPlay
+
+### OpenAirPlay :
+
+**Platform :** GNU/Linux
+
+**Description :** Enabling Airplay just like on Apple OSX on Ubuntu and possibly other non-apple OSes 
+
+**License :** MIT
+
+**Link :** https://github.com/openairplay/openairplay
+
+### ShairePlay :
+
+**Platform :** GNU/Linux
+
+**Description :** Apple airplay and raop protocol server 
+
+**License :** Multiple (show GitHub page of the project)
+
+**Link :** https://github.com/juhovh/shairplay
+
+### Shairport-sync :
+
+**Platform :** GNU/Linux
+
+**Description :** AirPlay and AirPlay 2 audio player (Only audio)
+
+**License :** Unknown (but it's open-source)
+
+**Link :** https://github.com/mikebrady/shairport-sync
+
+### UxPlay :
+
+**Platform :** Unix
+
+**Description :** AirPlay Unix mirroring server 
+
+**License :** GNU-GPLv3
+
+**Link :** https://github.com/antimof/UxPlay
+
+### UxPlayerAirServer :
+
+**Platform :** Microsoft Windows
+
+**Description :** AirPlay Server compiled for Windows 11
+
+**License :** MIT
+
+**Link :** https://github.com/9000000/UxPlayerAirServer
+
+### WirPlay :
+
+**Platform :** Microsoft Windows (Microsoft Store)
+
+**Description :** Mirroring of Screen of Apple Devices
+
+**License :** Proprietary
+
+**Link :** https://www.microsoft.com/store/productId/9P8CGJJV7T2C
+
+## Apple Music
+
+### Cider :
+
+**Platform :** Microsoft Windows, GNU/Linux, macOS
+
+**Description :** An open-source, community-oriented Apple Music client for Windows, Linux, macOS, and more.
+
+**License :** AGPLv3
+
+**Link :** https://github.com/ciderapp/Cider |  https://cider.sh/
+
+### Musish :
+
+**Platform :** Web
+
+**Description :** Apple Music...ish 
+
+**License :** AGPLv3
+
+**Link :** https://github.com/Musish/Musish |  https://musi.sh/
 
 ## Apple Protocol
-
-### Continuity :
-
-**Description :** Apple Continuity Protocol Reverse Engineering and Dissector 
-
-**Link :** https://github.com/furiousMAC/continuity
 
 ### AFPFS-ng :
 
@@ -151,123 +233,17 @@ Free, open source, cross-platform.
 
 **Link :** https://github.com/stapelberg/airscan
 
-## AirPlay
+### Continuity :
 
-### DroidPlay :
+**Description :** Apple Continuity Protocol Reverse Engineering and Dissector 
 
-**Platform :**  Android
-
-**Description :** AirPlay client for Android 
-
-**License :** GNU/GPLv3
-
-**Link :** https://github.com/tutikka/DroidPlay
-
-### AirServer :
-
-**Platform :**  Microsoft Windows
-
-**Description :** AirServer is the most advanced screen mirroring receiver for Mac and PC. It allows you to receive AirPlay, Google Cast and Miracast streams, similar to an Apple TV or a Chromecast device.
-
-**License :** Proprietary
-
-**Link :** https://www.airserver.com/download
-
-### WirPlay :
-
-**Platform :**  Microsoft Windows (Microsoft Store)
-
-**Description :** Mirroring of Screen of Apple Devices
-
-**License :** Proprietary
-
-**Link :** https://www.microsoft.com/store/productId/9P8CGJJV7T2C
-
-### OpenAirPlay :
-
-**Platform :**  GNU/Linux
-
-**Description :** Enabling Airplay just like on Apple OSX on Ubuntu and possibly other non-apple OSes 
-
-**License :** MIT
-
-**Link :** https://github.com/openairplay/openairplay
-
-### ShairePlay :
-
-**Platform :**  GNU/Linux
-
-**Description :** Apple airplay and raop protocol server 
-
-**License :** Multiple (show GitHub page of the project)
-
-**Link :** https://github.com/juhovh/shairplay
-
-### Shairport-sync :
-
-**Platform :**  GNU/Linux
-
-**Description :** AirPlay and AirPlay 2 audio player (Only audio)
-
-**License :** Unknown (but it's open-source)
-
-**Link :** https://github.com/mikebrady/shairport-sync
-
-### AirUx :
-
-**Platform :**  GNU/Linux
-
-**Description :** AirPlay For Linux 
-
-**License :** Unknown
-
-**Link :** https://github.com/init1lham/AirUx
-
-### Airplay_Music :
-
-**Platform :**  Java compatible systems
-
-**Description :** Fairly good working example of java based airplay music streaming app from PC to Airplay speakers/server. Uses JmDNS lib for searching airplay devices on local network.
-
-**License :** Unknown
-
-**Link :** https://github.com/pmjagtap/Airplay_Music
-
-### UxPlay :
-
-**Platform :**  Unix
-
-**Description :** AirPlay Unix mirroring server 
-
-**License :** GNU-GPLv3
-
-**Link :** https://github.com/antimof/UxPlay
-
-### UxPlayerAirServer :
-
-**Platform :**  Microsoft Windows
-
-**Description :** AirPlay Server compiled for Windows 11
-
-**License :** MIT
-
-**Link :** https://github.com/9000000/UxPlayerAirServer
+**Link :** https://github.com/furiousMAC/continuity
 
 ## Apple tools
 
-### Sideloadly :
-
-**Platform :**  Microsoft Windows, macOS
-
-**Description :** The new & best way to sideload your favorite games and apps to your Non-Jailbroken iOS device, or Apple Silicon Mac!
-
-**License :** Unknown
-
-**Link :** https://sideloadly.io
-
 ### AltStore server :
 
-**Platform :**  Microsoft Windows, GNU/Linux (unofficial), macOS, iOS (AltStore)
+**Platform :** Microsoft Windows, GNU/Linux (unofficial), macOS, iOS (AltStore)
 
 **Description :** A home for apps that push the boundaries of iOS. No jailbreak required.
 
@@ -277,7 +253,7 @@ Free, open source, cross-platform.
 
 ### ScarletCloud :
 
-**Platform :**  Microsoft Windows, GNU/Linux, macOS, iOS
+**Platform :** Microsoft Windows, GNU/Linux, macOS, iOS
 
 **Description :** An alternative to Cydia Impactor and AltServer for ALL computers. 
 
@@ -285,27 +261,15 @@ Free, open source, cross-platform.
 
 **Link :** https://usescarlet.com/ | https://github.com/DebianArch64/DebProvision
 
-## Apple Music
+### Sideloadly :
 
-### Cider :
+**Platform :** Microsoft Windows, macOS
 
-**Platform :**  Microsoft Windows, GNU/Linux, macOS
+**Description :** The new & best way to sideload your favorite games and apps to your Non-Jailbroken iOS device, or Apple Silicon Mac!
 
-**Description :** An open-source, community-oriented Apple Music client for Windows, Linux, macOS, and more.
+**License :** Unknown
 
-**License :** AGPLv3
-
-**Link :** https://github.com/ciderapp/Cider |  https://cider.sh/
-
-### Musish :
-
-**Platform :**  Web
-
-**Description :** Apple Music...ish 
-
-**License :** AGPLv3
-
-**Link :** https://github.com/Musish/Musish |  https://musi.sh/
+**Link :** https://sideloadly.io
 
 ## HomeKit
 
@@ -317,7 +281,7 @@ Free, open source, cross-platform.
 
 ### Homebridge :
 
-**Platform :**  RaspberryPiOS, GNU/Linux, macOS, Docker, Microsoft Windows, FreeNAS (BSD)
+**Platform :** RaspberryPiOS, GNU/Linux, macOS, Docker, Microsoft Windows, FreeNAS (BSD)
 
 **Description :** HomeKit support for the impatient. 
 
@@ -327,7 +291,7 @@ Free, open source, cross-platform.
 
 ### Homekitty :
 
-**Platform :**  Web
+**Platform :** Web
 
 **Description :** A Vapor 3 website to easily browse HomeKit accessories.
 
@@ -335,21 +299,57 @@ Free, open source, cross-platform.
 
 **Link :** https://github.com/BalestraPatrick/HomeKitty  |  https://homekitty.world/
 
-## Other
+## iCloud Suite
 
-### MagicPods :
+### iCloud for Linux :
 
-**Platform :**  Microsoft Windows (Microsoft Store)
+**Platform :** GNU/Linux (via Snap Package Manager)
 
-**Description :** The MagicPods introduce the IOS experience of AirPods to Windows.
+**Description :** Apple iCloud suite for GNU/Linux system's like Ubuntu
+
+**License :** GNU/GPLv3
+
+**Link :** https://snapcraft.io/install/icloud-for-linux/ubuntu
+
+### iCloud for Windows :
+
+**Platform :** Microsoft Windows
+
+**Description :** Apple iCloud suite on Windows (Windows 7 and later)
 
 **License :** Proprietary
 
-**Link :** https://www.microsoft.com/store/productId/9P6SKKFKSHKM
+**Link :** https://secure-appldnld.apple.com/windows/061-91601-20200323-974a39d0-41fc-4761-b571-318b7d9205ed/iCloudSetup.exe
+
+## iMessage
+
+### OpenBubble :
+
+**Platform :** Microsoft Windows, GNU/Linux, Android
+
+**Description :** Get Apple Services on your Android, including iMessage and FaceTime, with your Android number.
+
+**License :** Apache License
+
+**Link :** https://openbubbles.app
+
+## Operating Systems
+
+### pearOS :
+
+**Platform :** GNU/Linux
+
+**Description :** pearOS is a Linux distro that aims to look and behave like Apple’s macOS, is once again in active development with a new base, design, installer, and more.
+
+**License :** GNU/GPLv3 and Pear Public Licence
+
+**Link :** https://pearos.xyz
+
+## Other
 
 ### AirPodsDesktop :
 
-**Platform :**  Microsoft Windows 
+**Platform :** Microsoft Windows 
 
 **Description :** ☄️ AirPods desktop user experience enhancement program, for Windows and Linux (WIP) 
 
@@ -357,39 +357,19 @@ Free, open source, cross-platform.
 
 **Link :** https://github.com/SpriteOvO/AirPodsDesktop
 
-### LibrePods :
+### Apple Color Emoji Installer :
 
-**Platform :**  Android, GNU/Linux
+**Platform :** GNU/Linux
 
-**Description :** AirPods libreated from Apple's ecosystem.
+**Description :** A simple shell script to install Apple Color Emoji on any Linux distro.
 
-**License :** AGPLv3
+**License :** MIT License
 
-**Link :** https://github.com/kavishdevar/librepods
-
-### iNotifi :
-
-**Platform :**  Microsoft Windows (Microsoft Store)
-
-**Description :** Tired of missing those important iPhone notifications while using your Windows PC ? iNotifi to the rescue !
-
-**License :** Proprietary
-
-**Link :** https://www.microsoft.com/store/productId/9N9DTZ97WN9V
-
-### udev-rules for the SuperDrive :
-
-**Platform :**  GNU/Linux
-
-**Description :** udev rule to enable apple superdrive on linux
-
-**License :** Unlicense
-
-**Link :** https://github.com/mrdotx/superdrive/
+**Link :** https://aarnav-tech.github.io/apple-color-emoji-installer/
 
 ### ASD-Control
 
-**Platform :**  GNU/Linux
+**Platform :** GNU/Linux
 
 **Description :** Apple Studio Display and Pro Display XDR monitor brightness control for Linux
 
@@ -397,9 +377,39 @@ Free, open source, cross-platform.
 
 **Link :** https://github.com/rewgs/asdcontrol
 
+### iNotifi :
+
+**Platform :** Microsoft Windows (Microsoft Store)
+
+**Description :** Tired of missing those important iPhone notifications while using your Windows PC ? iNotifi to the rescue !
+
+**License :** Proprietary
+
+**Link :** https://www.microsoft.com/store/productId/9N9DTZ97WN9V
+
+### LibrePods :
+
+**Platform :** Android, GNU/Linux
+
+**Description :** AirPods libreated from Apple's ecosystem.
+
+**License :** AGPLv3
+
+**Link :** https://github.com/kavishdevar/librepods
+
+### MagicPods :
+
+**Platform :** Microsoft Windows (Microsoft Store)
+
+**Description :** The MagicPods introduce the IOS experience of AirPods to Windows.
+
+**License :** Proprietary
+
+**Link :** https://www.microsoft.com/store/productId/9P6SKKFKSHKM
+
 ### TimeWall :
 
-**Platform :**  GNU/Linux
+**Platform :** GNU/Linux
 
 **Description :** Apple dynamic HEIF wallpapers on GNU/Linux.
 
@@ -407,12 +417,12 @@ Free, open source, cross-platform.
 
 **Link :** https://github.com/bcyran/timewall
 
-### Apple Color Emoji Installer :
+### udev-rules for the SuperDrive :
 
-**Platform :**  GNU/Linux
+**Platform :** GNU/Linux
 
-**Description :** A simple shell script to install Apple Color Emoji on any Linux distro.
+**Description :** udev rule to enable apple superdrive on linux
 
-**License :** MIT License
+**License :** Unlicense
 
-**Link :** https://aarnav-tech.github.io/apple-color-emoji-installer/
+**Link :** https://github.com/mrdotx/superdrive/
