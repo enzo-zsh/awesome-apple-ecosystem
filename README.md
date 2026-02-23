@@ -167,6 +167,16 @@ Free, open source, cross-platform.
 
 **Link :** https://github.com/mikebrady/shairport-sync
 
+### Shairport-sync for Windows :
+
+**Platform :** Microsoft Windows
+
+**Description :** This project provides a simple installer and system tray utility for the open-source Shairport Sync project, allowing you to stream lossless audio from Apple devices to your PC.
+
+**License :** GPL-3.0 license
+
+**Link :** https://github.com/trewrad/shairport-sync-windows
+
 ### UxPlay :
 
 **Platform :** Unix
@@ -321,6 +331,26 @@ Free, open source, cross-platform.
 
 **Link :** https://secure-appldnld.apple.com/windows/061-91601-20200323-974a39d0-41fc-4761-b571-318b7d9205ed/iCloudSetup.exe
 
+### OSX-Photos :
+
+**Platform :** GNU/Linux, macOS
+
+**Description :** Python app to work with pictures and associated metadata from Apple Photos on macOS. Also includes a package to provide programmatic access to the Photos library, pictures, and metadata.
+
+**License :** MIT license
+
+**Link :** https://github.com/RhetTbull/osxphotos
+
+### Docker-iCloudpd :
+
+**Platform :** Docker
+
+**Description :** An Alpine Linux container for the iCloud Photos Downloader command line utility
+
+**License :** Unknown (but it's open-source)
+
+**Link :** https://github.com/boredazfcuk/docker-icloudpd
+
 ## iMessage
 
 ### OpenBubble :
@@ -376,6 +406,16 @@ Free, open source, cross-platform.
 **License :** GNU/GPLv2
 
 **Link :** https://github.com/rewgs/asdcontrol
+
+### Impactor :
+
+**Platform :** Microsoft Windows (Microsoft Store)
+
+**Description :** WIP feature rich iOS/tvOS sideloading application written in Rust.
+
+**License :** MIT, BSD-3-Clause licenses
+
+**Link :** https://github.com/claration/Impactor
 
 ### iNotifi :
 
