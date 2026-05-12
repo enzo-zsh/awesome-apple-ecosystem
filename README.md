@@ -263,13 +263,13 @@ Free, open source, cross-platform.
 
 ### Impactor :
 
-**Platform :** Microsoft Windows (Microsoft Store)
+**Platform :** Microsoft Windows, GNU/Linux, macOS
 
-**Description :** WIP feature rich iOS/tvOS sideloading application written in Rust.
+**Description :** Feature rich iOS/tvOS sideloading application written in Rust.
 
 **License :** MIT, BSD-3-Clause licenses
 
-**Link :** https://github.com/claration/Impactor
+**Link :** https://github.com/claration/Impactor | https://impactor.claration.dev
 
 ### ScarletCloud :
 
