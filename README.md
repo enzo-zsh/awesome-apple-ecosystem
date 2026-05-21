@@ -1,4 +1,4 @@
-# Awesome Apple ecosystem
+# Awesome Apple ecosystem [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A repository with Apple ecosystem softwares (open-source if it's possible), you can use on non-Apple devices / operating systems
 
 - [AirDrop](#airdrop)
